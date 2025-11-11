@@ -1,0 +1,5 @@
+{
+  "name": "CSV Column Transformer",
+  "description": "An application to upload a CSV file, then easily rename and reorder the columns before exporting the transformed data as a new CSV file.",
+  "requestFramePermissions": []
+}
